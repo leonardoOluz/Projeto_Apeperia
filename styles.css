@@ -1,12 +1,13 @@
 @import url("css/reset.css");
 @import url("css/cabecalho.css");
 @import url("css/chamada.css");
+@import url("css/destaques.css");
 @import url("css/planos.css");
 
 :root {
     --fonte-principal: 'Open Sans', sans-serif;
     --font-secundaria: 'Montserrat', sans-serif;
-    
+
     --branco: #fff;
     --azul-claro: #DFE3E5;
     --vermelho-forte: #B72E2E;
