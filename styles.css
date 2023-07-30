@@ -1,5 +1,5 @@
-@import url("css/inicializacao.css");
 @import url("css/reset.css");
+@import url("css/inicializacao.css");
 @import url("css/cabecalho.css");
 @import url("css/chamada.css");
 @import url("css/destaques.css");
@@ -8,6 +8,7 @@
 @import url("css/sobre.css");
 @import url("css/contato.css");
 @import url("css/institucional.css");
+@import url("css/rodape.css");
 
 :root {
     --fonte-principal: 'Open Sans', sans-serif;
